@@ -22,6 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-# Supabase ve Gizli Şifreler İçin Ek Garanti
-supabaseClient.js
-supabaseClient.ts
