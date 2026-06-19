@@ -23,7 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 # Supabase ve Gizli Şifreler İçin Ek Garanti
-.env
-.env.production
 supabaseClient.js
 supabaseClient.ts
